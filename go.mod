@@ -3,7 +3,7 @@ module github.com/jonpulsifer/ddnsd
 go 1.22.1
 
 require (
-	github.com/cloudflare/cloudflare-go v0.90.0
+	github.com/cloudflare/cloudflare-go v0.92.0
 	github.com/miekg/dns v1.1.58
 )
 
